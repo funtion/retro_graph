@@ -19,7 +19,7 @@ pip install -e code
 
 # Data and checkpoint
 The original USPTO data can be downloaded from the [Retro*](https://github.com/binghong-ml/retro_star).
-To ease of downloading, we also provide a copy in our [Zendo Repo](https://zenodo.org/record/7648612).
+To ease of downloading, we also provide a copy in [figshare](https://figshare.com/articles/dataset/RetroGraph_Retrosynthetic_Planning_with_Graph_Search/22116773).
 Meanwhile, you can also find our `USPTO-EXT` data and trained checkpoints in Zendo.
 
 The `data` folder should have the following files
